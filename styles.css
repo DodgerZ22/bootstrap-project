@@ -36,3 +36,12 @@ body{
 .nav-link:hover{
     color:blueviolet;
 }
+
+.nav-item{
+    display:flex;
+    justify-content: center;
+}
+
+#modalbtn{
+    text-align: center;
+}
